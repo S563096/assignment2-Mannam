@@ -12,3 +12,7 @@ I love playing crciket since childhood. I love **batting** and **bowling**.
 1. virat
 2. Anuj
 3. Dinesh
+
+* SRH
+* KKR
+* CSK

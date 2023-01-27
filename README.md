@@ -15,5 +15,17 @@ I love playing crciket since childhood. I love **batting** and **bowling**.
 
 * SRH
 * KKR
-* CSK
+* CSK <br>
 [redirecting to nextpage](AboutMe.md)
+
+---
+# Fav Countries
+
+I am gonna visit my fav countries which are in the below table
+
+| **Country_Name** | **Reason** | **Days**|
+| --- | :---: | ---: |
+|Brazil|  Is famous for stunning beaches| 15 |
+|Germany| famous for cultural beauty and beer| 15 |
+|Finland| happiest country in the world| 15 |
+|Canada| It's a place of land where people leave independently| 15 |

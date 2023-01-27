@@ -16,3 +16,4 @@ I love playing crciket since childhood. I love **batting** and **bowling**.
 * SRH
 * KKR
 * CSK
+[redirecting to nextpage](AboutMe.md)

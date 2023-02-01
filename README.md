@@ -29,3 +29,16 @@ I am gonna visit my fav countries which are in the below table
 |Germany| famous for cultural beauty and beer| 15 |
 |Finland| happiest country in the world| 15 |
 |Canada| It's a place of land where people leave independently| 15 |
+
+---
+
+## Funny quotes
+
+> Even in hard times there's a possibility to have fun. - *james*
+
+> Live for today and let tomorrow come later. - *priya*
+
+
+
+
+

@@ -38,6 +38,29 @@ I am gonna visit my fav countries which are in the below table
 
 > Live for today and let tomorrow come later. - *priya*
 
+---
+
+## JQuery Stack Overflow
+> [jQuery Tips and Tricks](https://stackoverflow.com/questions/182630/jquery-tips-and-tricks)
+
+```
+
+
+html {
+  scroll-behavior: smooth;
+}
+
+
+```
+
+
+> [Smooth Scrolling](https://css-tricks.com/snippets/jquery/smooth-scrolling/)
+
+
+
+
+
+
 
 
 
